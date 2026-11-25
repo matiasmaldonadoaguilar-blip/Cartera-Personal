@@ -1,0 +1,21 @@
+{
+  "name": "Matias Maldonado - Cartera Personal",
+  "short_name": "Cartera",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#08080a",
+  "theme_color": "#08080a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "IMAGEN.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "IMAGEN.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
